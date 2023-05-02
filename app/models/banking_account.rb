@@ -1,0 +1,2 @@
+class BankingAccount < Account
+end
